@@ -1,7 +1,7 @@
 import mechanize
 
 start = 1
-end = 11
+end = 130
 list_usn = [format(a, "03d") for a in range(start,end)]
 fcd, fc, fail, sc, na = 0, 0, 0, 0, 0
 
