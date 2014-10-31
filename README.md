@@ -10,10 +10,10 @@ Change the variables base_usn, start and end to match your requirements.
 
 Install mechanize module. 
 
-$sudo pip install mechanize
+<code>$sudo pip install mechanize</code>
 
 
 ###Run the program as:
 python vturesult.py
 
-####Might take a lot of time for the whole class
+######Might take a lot of time for the whole class
