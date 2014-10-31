@@ -14,6 +14,6 @@ Install mechanize module.
 
 
 ###Run the program as:
-python vturesult.py
+<code>$python vturesult.py</code>
 
 ######Might take a lot of time for the whole class
